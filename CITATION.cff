@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "apex-minecraft-agent-showcase"
+abstract: "Autonomous logic engine for 3D environments. Features a dual-layer architecture where rigid software guardrails safely supervise non-deterministic AI."
+authors:
+  - family-names: "Fowler"
+    given-names: "Michael"
+    alias: "MichaelFowler1"
+repository-code: "https://github.com/MichaelFowler1/apex-minecraft-agent-showcase"
+url: "https://github.com/MichaelFowler1/apex-minecraft-agent-showcase"
+keywords:
+  - "ai-agents"
+  - "autonomous-agents"
+  - "llm"
+  - "minecraft"
+  - "mineflayer"
+  - "nodejs"
+  - "openai-api"
+license: "Apache-2.0"
+date-released: "2026-07-17"
